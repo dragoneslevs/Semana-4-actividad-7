@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+.jumbotron{
+	background-image:url(images/2.jpg);
+	background-size: cover;
+	text-align: center;
+	padding: 5em;
+
+}
+.navbar-brand{
+
+}
+
+
+
+
+
+.boton1{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+	border
+}
+
+.thumbnail{
+	text-align: center;
+}
+.footer{
+
+	
+	text-align: center;
+	top: 5px;
+	margin-bottom: 10px;
+}
+.copy{
+	text-align: center;
+	background-color: lightgrey;
+	border:solid 10px lightgrey;
+}
